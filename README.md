@@ -1,0 +1,1 @@
+# hiddensearch-widget
